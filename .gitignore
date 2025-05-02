@@ -1,0 +1,10 @@
+*.o
+*.out
+.vscode/
+.DS_Store
+test_hashmap
+*.log
+fss_console
+fss_manager
+*.txt
+worker
