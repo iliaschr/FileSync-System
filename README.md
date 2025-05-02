@@ -1,4 +1,4 @@
-![run-tests](https://github.com/disyspro/hw1-iliaschr/actions/workflows/ci.yml/badge.svg)
+![run-tests](https://github.com/iliaschr/FileSync-System/actions/workflows/ci.yml/badge.svg)
 
 
 # FileSync System - FSS
